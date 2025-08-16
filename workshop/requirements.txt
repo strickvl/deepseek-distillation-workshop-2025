@@ -1,0 +1,9 @@
+ipykernel
+modal
+litellm
+unsloth
+zenml
+rich
+datasets
+huggingface-hub
+
