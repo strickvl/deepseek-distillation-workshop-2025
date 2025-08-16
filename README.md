@@ -51,7 +51,7 @@ You will need to create the following secrets in your Modal account. These are e
 
 ## The Book: DeepSeek Deep Dive
 
-The concepts and code in this repository are part of the upcoming book, "DeepSeek Deep Dive".
+The concepts and code in this repository are part of the upcoming book, "DeepSeek Essentials".
 
 ![Book Cover](https://m.media-amazon.com/images/I/81X-KhyWcCL._SY385_.jpg)
 
